@@ -14,11 +14,11 @@ Uma API (Application Programming  Interface) é um conjunto de rotinas e padrõe
 
 Nos últimos anos, a Internet se transformou de uma rede de servidores web que serviam principalmente páginas estáticas para navegadores de internet...
 
-![Internet](https://thefloppydisk.files.wordpress.com/2013/05/web10.png?w=1248)
+![Internet](https://robert-drummond.com/wp-content/uploads/2013/05/web10.png?w=1248)
 
 ...em uma arquitetura cliente-servidor, onde aplicativos web e mobile se comunicam com diferentes aplicações, cada vez mais por meio de APIs RESTful simples, mas poderosas.
 
-![Imagem](https://thefloppydisk.files.wordpress.com/2013/05/web20.png?w=1245)
+![Imagem](https://robert-drummond.com/wp-content/uploads/2013/05/web20.png?w=1245)
 
 # As regras do jogo
 
